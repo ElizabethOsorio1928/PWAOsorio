@@ -1,0 +1,15 @@
+{
+ "short_name": "pwaosorio",
+ "name": "Ejemplo de PWA",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "salmon",
+ "theme_color": "black",
+ "icons": [
+   {
+     "src": "https://worldpetsperu.com/front_estilos/img/rump/gato.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
